@@ -14,3 +14,6 @@ In this project, we will utilize historical customer data, including demographic
 4) Proactively engage with customers.
 5) Monitor feedback and make adjustments.
 6) Expand and refine retention efforts.
+
+Link for the visualization 
+https://app.powerbi.com/groups/me/reports/0bb22ed6-4aa3-4787-a70c-2034af1d85ab/ReportSection596efe59d4066d43a679?experience=power-bi
